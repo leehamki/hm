@@ -1,4 +1,4 @@
-from hm.master
+from hm.master and hm2.master
 # hm
 03/05 12:00 good code
 03/05 17:00 good code
